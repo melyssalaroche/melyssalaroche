@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lies=💻+Passionnée+par+la+cybersécurité+et+le+d%C3%A9veloppement;🚀+Explorant+Python%2C+Bash+C+et+le+Pentesting;🎯+Objectif+%3A+Intégrer+Epitech+et+monter+en+compétences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=💻+Passionnée+par+la+cybersécurité+et+le+d%C3%A9veloppement;🚀+Explorant+Python%2C+Bash+C+et+le+Pentesting;🎯+Objectif+%3A+Intégrer+Epitech+et+monter+en+compétences" />
   </p> 
 
 ---
